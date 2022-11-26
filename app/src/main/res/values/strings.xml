@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TV Explorer</string>
+    <string name="search">Search</string>
+    <string name="ended">Ended</string>
+</resources>
